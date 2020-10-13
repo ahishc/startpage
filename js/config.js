@@ -401,14 +401,9 @@ class Config {
 				url: 'https://reddit.com/'
 			},
 			{
-				site: 'Github',
-				icon: 'github',
-				url: 'https://github.com/'
-			},
-			{
-				site: 'Facebook',
-				icon: 'facebook',
-				url: 'https://facebook.com/'
+				site: 'Amazon',
+				icon: 'amazon',
+				url: 'https://smile.amazon.co.uk/'
 			},
 			{
 				site: 'Gmail',
@@ -429,11 +424,6 @@ class Config {
 				site: 'Twitter',
 				icon: 'twitter',
 				url: 'https://twitter.com/'
-			},
-			{
-				site: 'Material.io',
-				icon: 'materialio',
-				url: 'https://material.io/'
 			}
 		];
 
